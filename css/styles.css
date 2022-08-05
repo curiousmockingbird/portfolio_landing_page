@@ -1,51 +1,61 @@
 h1 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    border-style: dotted;
-    border-right: none;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  border-style: dotted;
+  border-right: none;
 }
 
 .remove_number {
-    list-style: none;
+  list-style: none;
 }
 
 ul {
-    list-style: none;
+  list-style: none;
 }
 
 .header {
-    text-align: center;
-    box-sizing: border-box;
-    margin-top: 1%;
-    margin-bottom: 2%;
+  text-align: center;
+  box-sizing: border-box;
+  margin-top: 1%;
+  margin-bottom: 2%;
 }
 
 .aka {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: brown;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: brown;
 }
 
 .first-sector {
-    text-align: right;
-    color: bisque;
-    padding-top: 50px;
-    padding-right: 50px;
-    padding-left: 50px;
+  text-align: right;
+  color: bisque;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
 }
 
 .second-sector {
-    padding-left: 0px;
+  padding-left: 0px;
 }
 
 .third-sector {
-    text-align: center;
-    padding: 5%;
+  text-align: center;
+  padding: 5%;
 }
 
 .fourth-sector {
-    box-sizing: border-box;
-    padding: 5%;
+  box-sizing: border-box;
+  padding: 5%;
+}
+
+.fifth-sector {
+  color: bisque;
+  text-align: center;
+  padding: 15%;
+}
+
+.sixth-sector {
+  padding: 5%;
 }
 
 .languages {
-    color: darkgreen;
+  color: darkgreen;
 }
