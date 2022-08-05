@@ -1,5 +1,7 @@
 h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: dotted;
+    border-right: none;
 }
 
 .remove_number {
@@ -18,7 +20,8 @@ ul {
 }
 
 .aka {
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
 }
 
 .first-sector {
@@ -34,13 +37,12 @@ ul {
 }
 
 .third-sector {
-    padding-left: 0px;
+    text-align: center;
+    padding: 5%;
 }
 
 .fourth-sector {
     box-sizing: border-box;
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-top: 5%;
+    padding: 5%;
 }
 
