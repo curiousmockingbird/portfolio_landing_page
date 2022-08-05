@@ -2,6 +2,22 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.first-column p {
+.remove_number {
+    list-style: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.first-column {
+    text-align: right;
     color: bisque;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.header {
+    text-align: center;
 }
