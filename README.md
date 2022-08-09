@@ -8,13 +8,16 @@ Harold Mesa.
 A simple, personal portfolio.
 
 ### Link to site on GitHub Pages:
-Please [click here](https://github.com/curiousmockingbird/portfolio_landing_page.git)
+Please [click here](https://curiousmockingbird.github.io/portfolio_landing_page/)
 
 ### Technologies used:
 HTML and CSS.
 
 ### Application setup instructions:
-Scroll down the site and know about me!
+1. Clone this repository to your desktop.
+2. Navigate to the top level of the directory.
+3. Open index.html in your browser.
+4. Scroll down the site and know about me!
 
 ### Known bugs
 Deployment of Epicodus projects might not work well.

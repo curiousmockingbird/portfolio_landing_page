@@ -37,8 +37,20 @@ ul {
 }
 
 .third-sector {
+  box-sizing: border-box;
   text-align: center;
-  padding: 5%;
+}
+
+.third-sector p {
+  color: bisque;
+padding-top: 30%;
+}
+
+.third-sector img {
+padding-top: 5%;
+padding-left: 5%;
+padding-bottom: 0%;
+float:left;
 }
 
 .fourth-sector {
