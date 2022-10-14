@@ -11,7 +11,7 @@ A simple, personal portfolio.
 Please [click here](https://curiousmockingbird.github.io/portfolio_landing_page/)
 
 ### Technologies used:
-HTML and CSS.
+HTML, CSS and Bootstrap.
 
 ### Application setup instructions:
 1. Clone this repository to your desktop.
